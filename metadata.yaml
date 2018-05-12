@@ -1,0 +1,32 @@
+_repo: Futuria-Fantasia-Winter-1940_41627
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41627-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bradbury, Ray
+    aliases:
+    - Elliott, William
+    - Bradbury, Raymond Douglas
+    birthdate: 1920
+    deathdate: 2012
+    gutenberg_agent_id: '41269'
+    url: http://www.gutenberg.org/2009/agents/41269
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2012-12-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41627'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction -- Periodicals'
+- !lcc 'PS'
+- !lcsh 'Zines'
+- !lcc 'AP'
+title: Futuria Fantasia, Winter 1940
+url: http://www.gutenberg.org/ebooks/41627
